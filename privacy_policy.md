@@ -1,3 +1,5 @@
+![IQNautics logo](https://www.iqnautics.com/wp-content/uploads/2019/08/logo.jpg)
+
 Last reviewed on 20 August 2019
 
 ## 1. Who we are?
