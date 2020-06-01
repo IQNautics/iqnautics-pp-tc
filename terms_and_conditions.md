@@ -1,11 +1,15 @@
-IQN APP TERMS AND CONDITIONS
-Last reviewed 20 May 2020
-(“TCS”)
+# IQNautics APP TERMS AND CONDITIONS
+*Last reviewed 20 May 2020 (“TCS”)*
+
 
 1.	Who we are
-IQNautics B.V. is a Dutch legal entity, duly formed and existing under the laws of the Netherlands, with its registered office and billing address located in Smedestraat 2, 6411, CR Heerlen (the "Company", “IQN” or "we"). IQN is the owner of the IQN App. Through the IQN App, Registered Users may access several services specifically designed for the recreational boating eco-system which allow users to access location-based sharing services and create boating trips via a collaborative journal (“Services”). A brief description of the Services is contained in section 4 below. 
+
+IQNautics B.V. is a Dutch legal entity, duly formed and existing under the laws of the Netherlands, with its registered office and billing address located in Smedestraat 2, 6411, CR Heerlen (the "Company", “IQN” or "we"). 
+IQN is the owner of the IQN App. Through the IQN App, Registered Users may access several services specifically designed for the recreational boating eco-system which allow users to access location-based sharing services and create boating trips via a collaborative journal (“Services”). A brief description of the Services is contained in section 4 below. 
+
 2.	Scope of these TCS
-2.1 The following TCS govern your access to and use of the IQN App and the operation of the Services via the IQN App. Specific terms and conditions could be further applicable to the content, data, materials or specific information included in or available through the IQN App (the "Content") or for transactions made through the IQN App. 
+
+	2.1 The following TCS govern your access to and use of the IQN App and the operation of the Services via the IQN App. Specific terms and conditions could be further applicable to the content, data, materials or specific information included in or available through the IQN App (the "Content") or for transactions made through the IQN App. 
 
 2.2 Subject to the mandatory legal provisions that dictate otherwise, IQN does not affirm nor offer any guarantee that (i) the IQN App will meet your requirements or that (ii) the IQN App will operate uninterruptedly, in a timely, secure or error-free manner; or that (iii) the results that can be obtained from the use of the IQN App (including any Content, information and materials on this IQN App) will be accurate, complete, secure, reliable or otherwise meet your requirements.
 
@@ -15,8 +19,8 @@ IQNautics B.V. is a Dutch legal entity, duly formed and existing under the laws 
 
 	3.1 In order to download, access and use the IQN App and the Services thereof, Registered Users must possess a Device (as described in section 4 below) meeting the following minimum technical specifications: 
 		i.	iPhone and iPad device having minimum iOS version 10 installed or an android device – smartphone or tablet having minimum android version 
-		ii.	at least 100 MB of free space available on the Device.
-		iii.	a data connection and access to location services.
+		ii.	 at least 100 MB of free space available on the Device.
+		iii. a data connection and access to location services.
 
 	3.2	IQN bears no responsibility for the unauthorized use of a Device for the purposes of downloading, accessing and using the IQN App. Should the Device belong to a different person than the Registered Users downloading, accessing and using the IQN App, the Registered Users hereby confirms that it has obtained prior permission from the owner of the Device to download or install the IQN App on the Device and to use the IQN App in accordance with this TCS.
 	
