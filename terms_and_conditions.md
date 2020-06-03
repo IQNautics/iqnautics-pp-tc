@@ -1,3 +1,5 @@
+![IQNautics logo](https://i4u1wq.am.files.1drv.com/y4mwe1vrhSx7tg2P9e7SN8AL1_f6zriqz8KtmyxL4aIFmG2yHW6grqoQ2uJwsA5w3lqfgXKTnKfvJspD0EuW6LRW6ZQTrdChb9dieAhz_dWE2VUzS7ojbwDtwV_X9QY_z-DYjMyAd3nbxvkC0DpcwxO4_Y2q3XPdBtfPwmsAU3BEzHrJ-xrz3THSwIaB9kSZlZAbABYnajaGOk6zsbV9TjDpw?width=256&height=72&cropmode=none)
+
 # IQNautics APP TERMS AND CONDITIONS
 *Last reviewed 2 June 2020*
 
@@ -200,3 +202,4 @@ IQN shall not be liable towards any Registered Users of the IQN App or any third
 These TCS shall be governed by the laws of the Netherlands. Any disputes arising in connection to the TCS shall be settled by the competent courts located in the Netherlands.
 ## 15.	Further information and contact
 For any further information, please contact us at: <office@iqnautics.com>
+https://legal.iqnautics.com/terms/terms_and_conditions.html
