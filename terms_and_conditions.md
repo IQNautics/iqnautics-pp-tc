@@ -202,4 +202,3 @@ IQN shall not be liable towards any Registered Users of the IQN App or any third
 These TCS shall be governed by the laws of the Netherlands. Any disputes arising in connection to the TCS shall be settled by the competent courts located in the Netherlands.
 ## 15.	Further information and contact
 For any further information, please contact us at: <office@iqnautics.com>
-https://legal.iqnautics.com/terms/terms_and_conditions.html
