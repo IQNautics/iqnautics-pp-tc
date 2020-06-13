@@ -3,7 +3,7 @@
 
 *Last reviewed 2 June 2020*
 
-#Privacy policy#
+#Privacy Policy#
 
 ## 1. Who we are?
 
