@@ -1,9 +1,8 @@
-<img src="https://i4u1wq.am.files.1drv.com/y4mwe1vrhSx7tg2P9e7SN8AL1_f6zriqz8KtmyxL4aIFmG2yHW6grqoQ2uJwsA5w3lqfgXKTnKfvJspD0EuW6LRW6ZQTrdChb9dieAhz_dWE2VUzS7ojbwDtwV_X9QY_z-DYjMyAd3nbxvkC0DpcwxO4_Y2q3XPdBtfPwmsAU3BEzHrJ-xrz3THSwIaB9kSZlZAbABYnajaGOk6zsbV9TjDpw?width=256&height=72&cropmode=none" width="128" height="36">
+<img src="https://svsh7w.am.files.1drv.com/y4mNgFmJ2ktRsgsGycIr9Fi-Y_Udjw_6ko0nraH4767dPfYnB_uparaNkIEw-iEO6jm-nI2NSpPHPyqHFYbGQOJLwm9pRUhfpr-QGOo03k0BYwdrE5uEtyWhd1-4P2RlFeCm_ckwuUYLJRxqhiXonM3AQo1x-i5PgUsygP1BMM3ay-umPDRYB5Kmc2hM6BntQA7YmkLOsyolBI8tT2UrheaOQ?width=227&height=64&cropmode=none" width="128" height="36">
 
-
-*Last reviewed 2 June 2020*
 
 #Privacy Policy#
+*Last reviewed 2 June 2020*
 
 ## 1. Who we are?
 
