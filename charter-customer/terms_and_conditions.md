@@ -1,205 +1,217 @@
 <img src="https://svsh7w.am.files.1drv.com/y4mNgFmJ2ktRsgsGycIr9Fi-Y_Udjw_6ko0nraH4767dPfYnB_uparaNkIEw-iEO6jm-nI2NSpPHPyqHFYbGQOJLwm9pRUhfpr-QGOo03k0BYwdrE5uEtyWhd1-4P2RlFeCm_ckwuUYLJRxqhiXonM3AQo1x-i5PgUsygP1BMM3ay-umPDRYB5Kmc2hM6BntQA7YmkLOsyolBI8tT2UrheaOQ?width=227&height=64&cropmode=none" width="128" height="36">
 
+![](RackMultipart20220501-1-4i8547_html_d297f3b16c93ed0.png)
 
-# Terms And Conditions
-*Last reviewed 2 June 2020*
+**IQN CHARTER PLATFORM TERMS AND CONDITIONS**
 
---	
-## 1.	Who we are
+1. **Who are we?**
 
-IQNautics B.V. is a Dutch legal entity, duly formed and existing under the laws of the Netherlands, with its registered office and billing address located in Smedestraat 2, 6411, CR Heerlen (the "Company", “IQN” or "we"). IQN is the owner of the IQN App. Through the IQN App, Registered Users may access several services specifically designed for the recreational boating eco-system which allow users to access location-based sharing services (“Services”). A brief description of the Services is contained in section 4 below.  
+1.1 IQNautics B.V. is a Dutch legal entity, duly formed and existing under the laws of the Netherlands, with its registered office and billing address located in Smedestraat 2, 6411, CR Heerlen (the &quot; **Company**&quot;, &quot; **IQN**&quot; or &quot; **we**&quot;).
 
---	
-## 2.	Scope of these TCS
+1.2 IQN is the owner of the Digital Yacht Charter Platform available at the following URL address: charter.iqnautics.com (the &quot; **IQN Charter Platform**&quot;).
 
-### 2.1
-The following TCS govern your access to and use of the IQN App and the operation of the Services via the IQN App. Specific terms and conditions could be further applicable to the content, data, materials or specific information included in or available through the IQN App (the "Content") or for transactions made through the IQN App. 
+1. **What**  **is the IQN Charter Platform?**
 
-### 2.2
-Subject to the mandatory legal provisions that dictate otherwise, IQN does not affirm nor offer any guarantee that (i) the IQN App will meet your requirements or that (ii) the IQN App will operate uninterruptedly, in a timely, secure or error-free manner; or that (iii) the results that can be obtained from the use of the IQN App (including any Content, information and materials on this IQN App) will be accurate, complete, secure, reliable or otherwise meet your requirements.
+2.1 The IQN Charter Platform provides a range of innovative services to both yachts&#39; charters owners and skippers, which are conducive of a seamless customer experience when renting a yacht, whilst having simple and fast internal processes and solutions (the &quot; **Services**&quot;).
 
-### 2.3
-These TCS represent a legally binding agreement between IQN and the Registered Users downloading, accessing or using the IQN App and set out the specific rights and obligations applicable to your downloading, accessing and use of the IQN App. The Services may not be made available by IQN to its Registered Users unless the Registered Users accept the provisions of these TCS. By way of clicking the “I Agree” check box below you express your consent to the provisions contained in this TCS. Your consent to the TCS shall be stored by IQN. The language offered for these TCS is English.
+2.2 A brief description of the Services is contained in section 6 below.
 
---	
-## 3.	Accessing and downloading the IQN App
+1. **Scope of these TCS**
 
-### 3.1
-In order to download, access and use the IQN App and the Services thereof, Registered Users must possess a Device (as described in section 4 below) meeting the following minimum technical specifications: 
+3.1 These TCS represent a legally binding agreement between IQN and the Users (as defined in Section 4 below) which applies following your access and/or use of the IQN Charter Platform and sets out the specific rights and obligations applicable to your access and use of the IQN Charter Platform.
 
-##### i. iPhone and iPad device having minimum iOS version 10 installed or an android device – smartphone or tablet having minimum android version 5
-##### ii. at least 100 MB of free space available on the Device.
-##### iii.	a data connection and access to location services.
+2.2 More specifically, the TCS govern your access to and the use of the IQN Charter Platform and the operation of the Services via the IQN Charter Platform. Specific terms and conditions could be further applicable to the content, data, materials or specific information included in or available through the IQN Charter Platform (the &quot; **Content**&quot;) or for transactions made through the IQN Charter Platform.
 
+3.3 The Services may not be made available by IQN to its users unless the Users (as defined in Section 4 below) accept the provisions of the TCS. By way of clicking the &quot; **I Agree**&quot; check box on the pop up window appearing when you log into your account, you express your consent to the provisions contained in these TCS. Your consent to the TCS shall be stored by IQN. The language offered for the TCS is English.
 
-### 3.2
-IQN bears no responsibility for the unauthorized use of a Device for the purposes of downloading, accessing and using the IQN App. Should the Device belong to a different person than the Registered Users downloading, accessing and using the IQN App, the Registered Users hereby confirms that it has obtained prior permission from the owner of the Device to download or install the IQN App on the Device and to use the IQN App in accordance with this TCS.
-	
-### 3.3
+3.4 Subject to the mandatory legal provisions that dictate otherwise, IQN does not affirm nor offer any guarantee that (i) the IQN Charter Platform will meet your requirements or that (ii) the IQN Charter Platform will operate uninterruptedly, in a timely, secure or error-free manner; or that (iii) the results that can be obtained from the use of the IQN Charter Platform (including any Content, information and materials on this IQN Charter Platform) will be accurate, complete, secure, reliable or otherwise meet your requirements.
 
-The Registered Users acknowledges and accepts the inherent risks that information transmitted through the internet or any other communication system, including a wireless communication system, is susceptible to unlawful and unauthorized access, interception, distortion and monitoring.
+3.5 For the purposes of these TCS, the following terms shall be defined as follows:
 
-### 3.4 
-In order to access the IQN App and the Services, as described below the Registered Users must create an account by using one of the following platforms: Facebook or Google. The IQN App cannot be accessed if the user does not create an account via the manner described in this section. When the Registered User is invited in a flotilla, such Registered User will be notified by Google or Facebook if they want to grant access to IQN.
+1. **Base(s)**: means the subsidiaries of the Charter Company using the IQN Charter Platform. Any Yacht Charter Company that uses the IQN Charter Platform can create these bases and update information relating to such bases such as: name, address, company details, contact numbers and information about the location of the marina. All this information is being used to automatically generate relevant documents that are needed to complete the charter process such as: digital contracts, crew lists, check-in/out forms, etc.
+2. **Charter Services** : Means the renting of marine vessels for recreational purposes.
+3. **Check-in/out forms** : Means forms that are automatically generated by the system and include Customer data, Charter Base data, vessel information and inventory data and input fields for the Customer or Charter employee.
+4. **Crew list** : A list generated with Customer data inputted in the IQN Charter Platform that can be used by the Yacht Charter Company to fulfil the local regulations related to the Charter Contract.
+5. **Dashboard** : means a single web page that aggregates various types of information so that the customer, a Yacht Charter company or a vessel owner will be able to easily access certain type of data.
+6. **Document(s)**: the documents that can be either automatically generate by the IQN Digital Platform or uploaded by a Yacht Charter Company and shared with the Yacht Charter Company Customers. The IQN Charter Platform uses the following templates: Yacht Charter Contract, Crew Lists, Vessel Check-In/Out, any other type of documents that the charter requires for fulfilling their services. The IQN Charter Platform is not responsible and liable for the content of any of the documents in the IQN Charter Platform . The content of all these documents fall under the responsibility of the Users of the IQN Digital Charter platform.
+7. **Feedback** : information that Users may provide to us through the tools used by the IQN Charter Platform that allow Users to take screenshots and write comments on captures. In addition, you will be able to benefit from a support chat tool where you can give us User feedback
+8. **Fleet** : Means two or more vessels that are being managed by a Yacht Charter Company.
+9. **PIN** : Means a unique code that is automatically generated and sent to the email of the Users. The IQN Charter Platform generates a unique PIN that is being sent automatically to the email of the User. The PIN cannot be changed. If the PIN is lost, a new PIN will be automatically generated. Generating a new PIN is being done by the Yacht Charter Company using the IQN Digital Charter platform at the request of the Yacht Charter Company Customer(s). The Yacht Charter Company does not receive and has not access to the PIN so generated.
+10. **Skipper(s)**: Means the person that is steering a marine vessel which is being rented – chartered by the Yacht Charter Company and manged via the IQN Charter Platform. The Skipper is appointed by the Yacht Charter Company.
+11. **Standard Contract** : Means a contract that might be required by the charter depending on the local regulations.
+12. **Task** : Means various assignments which are allocated to various employees or collaborators of the Yacht Charter Company that are required for fulfilling the scope of a Yacht Charter Contract.
+13. **Vessel(s)**: Means any type of boat that is being rented – chartered by the Yacht Charter Company **and** manged via the IQN Charter Platform.
+14. **User(s)**: A person who accesses the IQN Charter Platform following the creation of one of the **five** (5) types of User Accounts described in subsection 4.2 below.
+15. **Yacht Charter Contract** : Means a yacht rental contract.
+16. **Yacht Charter Company** : Means a company or an individual that is renting marine vessels to customers for a specific period of time or the vessel owner, both which register as such and use the IQN Charter Platform in their daily operations.
+17. **Yacht Charter Company Customer(s)**: Means the person or company that is chartering vessels from a Yacht Charter Company.
 
---	
-## 4.	Services and functionalities 
+1. **The IQN Charter Platform User Accounts**
 
-### 4.1 
-The Services may be accessed only via an iPhone or iPad device ("Device"). 
-	
-### 4.2 
-Registered Users may access the following Services and functionalities of the IQN App:
+4.1 The IQN Charter Platform can be found at the following URL address: charter.iqnautics.com. In order to access the IQN Charter Platform, you must register and create a user account (&quot; **User**&quot; or &quot; **Users**&quot;). Users need to have an Internet connected device and be able to run an Internet browser to access the IQN Charter Platform.
 
-##### i.	creating a flotilla and adding other skippers to it.
+4.2 There are three (5) types of User accounts that can be created on the IQN Charter Platform as follows:
 
-##### ii.	seeing flotilla members’ location, speed and distance relative to the Registered User. In this way it is easier to provide assistance in case of need or better time Registered Users’ arrivals by knowing the location of all members of a Registered Users’ flotilla. 
+1. **The Charter Master Admin User Account** : Charter Master Admin Users have the following privileges: (i) they can create other Users (except for Charter Master Admin Users) and invite them to finalise the account creation process, (ii) they can create Bases, allocate Users to the respective Bases and define the type of Users; and (iii) they can create/delete Users (except for Charter Master Admin Users), Bases, Vessels, Documents, and Customers.
+2. **The Base Admin User Account:** Charter Master Admin Users have the following privileges: (i) they can create, edit and delete Vessel profiles; (ii) they can create, edit and delete Customer profiles and (iii) they can create, edit and delete Documents but only for the Base they are allocated to.
+3. **The Associate User Account** : Associate Users have read only privileges (i.e. accessing information via the IQN Charter Platform). Associate Users cannot make any amendments in terms of Users, Bases, Vessels, Documents, and Customers. Instead, Associate Users can see and execute the following tasks: Vessel Check-out, Vessel Cleaning, Vessel Repairing, Vessel Check-in and Final Documents Check list.
+4. **The Guest User Account** : The privileges of Guest Users are limited to receiving a link to the following tasks: vessels to be cleaned and vessels to be repaired. They do not have access to Customer data but only to a list of Vessels.
+5. **The Charter Customer User Account** : Charter Customer Users are invited to the platform by the Yacht Charter Company when the charter user creates the customer profile in the IQN Charter Platform. Yacht Charter Customer Users will receive an email, providing them with an invite link to the IQN Charter Platform (&quot; **Invite Link**&quot;) and a unique access PIN. By clicking on the Invite Link, Yacht Charter Customer Users will be taken to a Dashboard where information related to the Charter contract is displayed. Yacht Charter Customer Users have the following privileges: (i) uploading Documents and (ii) digitally signing contracts directly on the device screen. The information that the Yacht Charter Customer Users can access includes: the Charter period, marina information, Vessel name and profile.
 
-##### iii.	logging the Registered Users’ personal bests such as nautical miles covered during trips or highest speed reached on water when the Registered User is in an active flotilla.
+1. **Creating an User Account**
 
-##### iv.	visualizing location information of all flotilla members on a map for easier coordination as a group and details of each flotilla member such as: current speed, distance relative to your location, their GPS coordinates.
+5.1 In order to create a Charter Master Admin User Account, the User must provide the following details: name and surname, an email address, password. After providing these details in the IQN Charter Platform form, the User will receive a confirmation email. Following the successful creation of an Charter Master Admin User Account, these Users will be able to access their IQN Charter Platform account with their email address and password.
 
-##### v.	allowing other Registered Users in the same flotilla to easily find you if you found for example a swimming or fishing spot. 
+5.2 Base Admin and Associate User Accounts can only be created by the Charter Master Admin. After the Charter Master Admin has created the Base Admin and/or the Associate User Accounts, these Users will receive an email that will allow them to finalise their accounts by way of typing in their unique passwords. Following the successful creation of a Base Admin and/or Associate Users Accounts, these Users will be able to access their IQN Charter Platform accounts with their email address and password.
 
-##### vi.	facilitating support for another boater in a Registered Users’ flotilla also allowing for an estimation of how long it will take to get to the location of the said Registered User.
+5.3 A Charter Customer User Account may be created by the User that is in charge of the Charter Master Admin User Account following the creation of a client profile in the Yacht Charter profile in the IQN Charter Platform. Following the creation of the client profile, the Charter Customer User will receive a link and a PIN via the email address provided by the Charter Master Admin User. The Charter Customer will then be able to activate their account and the Dashboard.
 
-##### vii.	support in getting a Registered User’s boat next to his or her fellow skippers in a marina by providing information on the exact place where they are and providing the possibility go directly to them without wasting time in a marina. 
+5.4 Guest Users can access their account after they have received a link via email or messenger type applications.
 
-##### viii. supporting the organisation of all boats if planning to approach a certain location by providing information to Registered Users in the same flotilla about who is who and where they are for easy and on the spot planning. 
+5.5 IQN bears no responsibility for the unauthorized use of a User account for the purposes of accessing and using the IQN Charter Platform. Should the User account be used by a different person than the person who created the User account and whose details have been provided in accordance with subsections 5.1-5.4 above, than the person whose details have been provided for the creation of the User account shall be liable for any and all activities and liabilities deriving from such use.
 
-##### ix.	inviting a Registered Users’ charter company representative or marina representative to his or her flotilla so that they can see the exact arrival time. In this way they will be there just in time to give to the Registered User the needed support.
+5.6 The User acknowledges and accepts the inherent risks that information transmitted through the internet or any other communication system, including a wireless communication system, is susceptible to unlawful and unauthorized access, interception, distortion and monitoring.
 
-### 4.3 
-Future development of the IQN App will include but shall not be limited to posting comments, photos and other materials (“User Content”).
+5.7 A confirmation email to the email address provided by the User shall be sent to the after the account has been created confirming the successful creation of the User&#39;s account in the IQN Charter Platform.
 
-### 4.4 
-Access to the AIS Marine Traffic Information Service
+1. **IQN Charter Platform Services**
 
-##### i.	What is AIS?
-The automatic identification system – AIS - for vessel tracking is considered one of the most significant developments in navigation safety since the introduction of the radar. Data collected through AIS allows commercial vessels to view other vessels by way of a continuous transmission of the vessels’ position, identification details, speed and course, along with other relevant information to other AIS equipped entities.
+6.1 The Services may be accessed via any electronic device which can connect to the Internet, including but not limited to computers, mobile phones, tablets and other similar device and which has GPS functionalities (&quot; **Device**&quot;).
 
-##### ii.	What kind of AIS information is available to IQN’s App users?
-IQN’s AIS Related Data offered through our application allows Registered Users to see the location of boats that are equipped with the AIS system. Such information refers to the name of the boat, speed and location (“AIS Related Data”). The AIS Related Data to which IQN users have access via the IQN App provides information only from terrestrial antennas. 
+6.2 The Yacht Charter Company, through each of the following categories of Users may access various services and functionalities as follows: (i) via the Charter Master Admin User Account, it can manage the entire access to the Yacht Charter Company&#39;s operations and has access to all functionalities, such as the creation of other User accounts and their assignment to a specific Base; (ii) via the Base Admin User Account which has the same rights as the Charter Master Admin Users but only in relation to a specific Base; and (iii) via Associate User Accounts created by the Charter Master Admin User or the Base Admin User, who can only cite information and perform tasks..
 
-##### iii.	How does it work?
-IQN receives AIS Related Data from a shared AIS data platform. Each user of the AIS platform has an AIS antenna and sends the information feed to the third party AIS platform. The AIS third party platform then offers access to the information provided by other users who send AIS information. IQN operates its own AIS antennas and shares this data with the third-party provider. The antenna sends data to the AIS platform, this information being transmitted by radio waves by boats automatically.
+6.3 More specifically, Users may access the following Services and functionalities of the IQN Charter Platform:
 
-##### iv.	Disclaimer
-IQN is not responsible for the accuracy of the AIS Related Data available to Registered Users. IQN shall not be liable towards any Registered Users of the IQN App or any third parties for any direct or indirect loss, damage or loss of a commercial opportunity whatsoever resulting from the use or reliability on the AIS Related Data. 
-By accepting these TCS, Registered Users acknowledge and agree that they will not use the AIS Related for commercial purposes by them, their affiliates, agents, employees or any other individual or entity with they are connected in any way.
+1. **Task manager / Charter process management** : A feature that offers the Yacht Charter Company employees the option to track and update the Tasks related to Vessel preparation for Charter. The Tasks tracked are as follows: Vessel check-out/in, cleaning, repairing and documents check, on Charter.
+2. **Customer management** : A feature that provides the Yacht Charter Company employees the option to create a Yacht Charter Company Customer profile in the IQN Charter Platform by inputting customer information. Once the customer profile is created, the Charter Customer User will receive an email that invites the customer to a Dashboard with information related to the Charter Contract. In the Dashboard, the Charter customer can sign, and upload Documents related to the Charter, fill in information needed for the Charter, upload or download the Charter Contract fulfilling documents.
+3. **Fleet management** : A feature that provides the Yacht Charter Company the option to create Vessel profiles for all the vessels in a respective Charter Base. The Charter Customer User can upload photos of the Vessel, define equipment, inventory items and upload relevant Vessel Documents such as instruction manuals.
+4. **Document manager** : A feature that allows the Yacht Charter Company to create automated digital documents. Users can create templates in the Document Management section and these templates are automatically populated with the information from the following sources: (i) Vessel profile which allows Users to define the object of the contract, (ii) Customer details which allows Users to define the party of the contract, (iii) Base details which allows Users to define the service provider of the contract, the charter period and charter price to define the object of the contract. The documents created in the Document manager, can be exported into PDF format which can be later printed or signed digitally on the device screen. The Document manager tool allows for the automatic creation of four (4) types of documents, namely Yacht Charter Contracts, Standard Contracts, Crew lists and Check-in/out forms. THE DOCUMENT MANAGER SERVICE DOES NOT REPRESENT IN ANY WAY LEGAL ADVICE OFFERED BY IQN TO ITS USERS. ANY VALIDITY OR ENFORCEABILITY REQUIREMENTS MUST BE OBSERVED BY THE USERS AND HENCE IQN DOES NOT ASSUME ANY LIABILITY IN THAT REGARD.
+5. **Feedback and User Support** : A feature that allows User to provide feedback to us and to benefit from support.
 
+1. **Payment**
 
-### 4.5 IQNautics Smart Traffic
+7.1 The current version of the IQN Charter Platform and the Services thereof are offered free of charge, but only temporarily.
 
-#### 4.5.1 
-When launching the IQN App and on water, the IQNautics Smart Traffic allows Registered Users to be located on the map just as boats in AIS system.
+7.2 IQN will shortly launch a paid version of the IQN Charter Platform. Following the launch of the paid version of the IQN Charter Platform, Users will be able to access the IQN Charter Platform and use the Services only following the payment of a fee. Users will receive a notice informing them of the launch of the paid version of the IQN Charter Platform, the amount of the payable fee and payment details.
 
-#### 4.5.2 
-Registered Users’ information related to travel speed and their location at that time is becoming visible to other Registered Users. As opposed to the AIS Related Data, the IQNautics Smart Traffic does not share the name of the boat of Registered Users. The default text appearing next to the Registered Users’ boats is “IQN User”. 
+1. **User content**
 
-#### 4.5.3
-Such text may not be changed by the Registered Users. One important aspect of the IQNautics Smart Traffic is that all Registered Users who use the IQN App while on the water will be presented on the map automatically. Registered Users do not have the option to turn off this functionality. Therefore, the usage of the IQN App comes bundled with the IQNautics Smart Traffic feature.
+8.1 The Users grant to the IQN a non-exclusive licence to access, publish and use in any way the User Content for the purposes of the functioning of the IQN Charter Platform and the Services. Users declare and represent that are the owners or have the right to license the User Content. Users are fully liable for any damages that might be caused to the Company and/or third parties because of the Company&#39;s use of the User Content.
 
-## 5.	User content
+8.2 Users shall refrain from posting in the IQN Charter Platform defamatory and/or explicit material and shall bear all responsibility deriving from the use of copyright works, trade marks or other forms of material protected by other intellectual property rights, including but not limited to patents, confidential information or trade secrets, uploaded or otherwise used by them on the IQN Charter Platform
 
-### 5.1 
-Users and Registered Users grant to the Company a non-exclusive licence to access, publish and use in any way the User Content for the purposes of the functioning of the IQN App and the Services or for other legitimate purpose of IQN. Users and Registered Users declare and represent that are the owners or have the right to license or disclose the User Content. Users and Registered Users are fully liable for any damages that might be caused to the Company and/or third parties as a consequence of the Company’s use of the User Content or disclosure via the IQN App.
-### 5.2
-Users and Registered Users shall refrain from posting in the IQN App defamatory and/or explicit material. Failure to comply with this provision triggers the Registered Users’ liability for any direct or indirect damages caused to IQN or third parties.
+1. **Changes and suspension of the IQN Charter Platform**
 
+_ **9.1 Changes to the IQN Charter Platform** _
 
-## 6.	Changes and suspension of the IQN App
-### 6.1. Changes to the IQN App 
-#### 6.1.1 
-IQN may continuously update the IQN App and reserves the right to perform changes from time to time in how IQN offers, provides and operates the IQN App. To this end, IQN may, in its sole discretion, from time to time, change, vary or amend the form, appearance, functionality and content of the IQN App and Services, including through updates and upgrades.
-#### 6.1.2
-The updates and upgrades to the IQN App which may become available from time to time, shall be free of charge and users will be required to download and install the updates and upgrades from the Devices’ relevant virtual store in order to continue to use the IQN App. 
-#### 6.1.3
-Depending on the type of update or upgrade, users may not be able to use the IQN App until the latest version of the IQN App has been downloaded. 
-#### 6.1.4
-IQN is under no obligation to notify Registered Users of such changes, updates and upgrades unless such changes materially and adversely affect users’ ability to use the IQN App, in which case Company will endeavour to notify Registered Users via email of the changes at least 48 hours before the changes come into effect. 
-#### 6.1.5
-These TCS, as they may be amended further, will apply to all updates and upgrades, unless specified otherwise. Should Registered Users not agree to the changes to the IQN App, they may end their use of the IQN App in the manner detailed in clause 8 below. 
-### 6.2 Suspension to the IQN App
-#### 6.2.1
-IQN may temporarily suspend all or part of the IQN App Services or suspend or terminate Registered Users’ right to access and use the IQN App in the following cases: 
-##### i. IQN needs to perform maintenance on, upgrades or updates to, the IQN App or any of the systems, software, technology or other infrastructure that it uses to provide the IQN App or the Services; 
-##### ii. IQN has reasonable grounds to believe that the user is using the IQN App recklessly, with gross negligence or with the intention to defraud or for fraudulent purposes; 
-##### iii. IQN has reasonable grounds to believe that you are engaging in any actual or suspected or threatened breach of this TCS, specifically in breach of clause 7 below; 
-##### iv. IQN becomes aware of any actual, threatened or suspected unauthorized use of the IQN App; 
-##### v. IQN reasonably believes that the security of Registered Users’ Devices used to provide the IQN App may be compromised; 
-##### vi. IQN becomes aware of any information that it is provided by users it is false, inaccurate, invalid, incomplete or misleading; 
-##### vii. IQN must do so to comply with the law; or 
-##### viii. 	a court or other authority orders IQN to do so. 
+9.1.1 IQN may continuously update the IQN Charter Platform and reserves the right to perform changes from time to time in how IQN offers, provides and operates the IQN Charter Platform. To this end, IQN may, in its sole discretion, from time to time, change, vary or amend the form, appearance, functionality and content of the IQN Charter Platform and Services, including through updates and upgrades.
 
-#### 6.2.2
-IQN will notify users if it suspends partially or wholly the IQN App and Services where it is reasonably practicable to do so. 
+9.1.2 Depending on the type of update or upgrade, Users may not be able to use the IQN Charter Platform until the latest version of the IQN Charter Platform has been updated or upgraded.
 
-## 7.	Prohibited acts 
-### 7.1 
-IQN allows its Registered Users of the IQN App to download, install and use the IQN App for non-commercial purposes and use the Services and the IQN App’s functionalities.
+9.1.3 IQN is under no obligation to notify Users of such changes, updates and upgrades unless such changes materially and adversely affect users&#39; ability to use the IQN Charter Platform, in which case Company will endeavour to notify Users via email of the changes at least 48 hours before the changes come into effect.
 
-### 7.2	
-Except as expressly set out in these TCS or as permitted by the applicable law, Registered Users agree to refrain from any and all activities and operations listed below: 
-##### i. copying the IQN App except where such copying is incidental to normal use of the IQN App, or where it is necessary for the purpose of back-up or operational security;
-##### ii.	renting for free or subject to a fee, leasing, sub-licensing, translating, merging, adapting, varying or modifying the IQN App; 
-##### iii. altering or amending in whole or in part of the IQN App, or permitting the IQN App or any part of it to be combined with or become incorporated in, any other programs; 
-##### iv.	disassembling, decompiling, or unless permitted by applicable law, reverse-engineering or creating derivative works based overall or any part of the IQN App, the technology forming part of the IQN App or attempting to do any such thing;
-##### v. using the IQN App in any unlawful manner, for any unlawful purpose, or in any manner inconsistent with this TCS, or acting fraudulently or maliciously (for example, by hacking into or inserting Unpermitted Code, as defined below, into the IQN App or any technology); 
-##### vi. infringing IQN’s Intellectual Property Rights, as defined below, or those of any third party; 
-##### vii. transmitting or posting in the IQN App any material that is defamatory, offensive or otherwise objectionable in relation to your use of the IQN App; 
-##### viii.	introducing, or allowing the introduction of, any Unpermitted Code into the IQN App or the technology utilized by IQN or you. Unpermitted Code includes viruses, "trojan horses", computer code, malware, instructions, devices or other materials designed to disrupt, disable, harm or otherwise impede operation of the Device, Services, data, storage media, programs, equipment or communications, or otherwise interfere with operations thereof;
-##### ix.	provide or otherwise make available the IQN App, in whole or in part (including any object code) in any form to any person without prior written consent from Company; 
-##### x.	using the IQN App in a way that could damage, disable, overburden, impair or compromise our systems, Infrastructure or security or interfere with other users; and 
-##### xi.	collecting or harvesting any information or data for attempt to decipher any transmissions from the servers or systems which run the IQN App.
+9.1.4 These TCS, as they may be amended further, will apply to all updates and upgrades, unless specified otherwise. Should Users not agree to the changes to the IQN Charter Platform, they may end their use of the IQN Charter Platform in the manner detailed in section 10 below.
 
-### 7.3 	
-User undertake to keep all copies of the IQN App secure and comply with all technology control or export laws or regulations that apply to the technology used or supported by the IQN App.
-### 7.4	
-For the avoidance of any doubt, IQN does not grant to its users any rights or licenses to access or use the source code of the IQN App. IQN always remains the sole owner of the IQN App.
-### 7.5
-All acts and omissions of any person that uses the Device, shall be treated as, and also be deemed to be, the u Registered Users’ acts and omissions. IQN may hold Registered Users liable and responsible for these acts and omissions. 
-## 8. Termination the TCS
-### 8.1	
-Registered Users may end this TCS, and thus the further use and access of the IQN App and Services, at any time without reason by permanently deleting, removing and destroying all copies of the IQN App in their possession custody or control and which they have installed on the Devices. 
-### 8.2
-IQN reserves the right at any time and for any reason to terminate this TCS, the operation or availability of the IQN App or Registered Users’ right to use the IQN App. 
-### 8.3
-If IQN shall terminate these TCS as per clause 8.2 above, it shall give its Registered Users a prior written notice by email unless: 
-##### i. the termination is required by law; or 
-##### ii. it is reasonable not to give a prior notice, having regard to the reasons why IQN is taking these actions. 
+_ **9.2 Suspension to the IQN Charter Platform** _
 
-### 8.4	
-Following the termination of this TCS for any reason, all rights and licenses granted to the users under this TCS will immediately end. To this end, users must immediately stop all activities authorized by this TCS and remove and delete the IQN App from all Devices and immediately destroy all copies of the IQN App in users’ possession, custody or control.
-### 8.5
-Following the termination of this TCS however certain provisions of this TCS which by their nature must continue to apply will not be affected by the termination, including but not limited to clauses where IQN’s liabilities or responsibilities are excluded or limited, including amounts which users can claim from IQN, provisions regarding the limited or excluded rights that users have against IQN, provisions referring to certain losses or damages that may happen and in relation to which users assume responsibility. 
+9.2.1 IQN may temporarily suspend all or part of the IQN Charter Platform Services or suspend or terminate Users&#39; right to access and use the IQN Charter Platform in the following cases:
 
-## 9.	Intellectual Property Rights
-### 9.1	
-For the purposes of these TCS, "Intellectual Property Rights" shall include all intellectual property rights of whatsoever nature anywhere in the world, including (without limitation) copyright and related rights, patents, patent rights, designs, design rights, invention rights, database rights, know-how, confidential information, trade secrets, trademarks, trade names, domain names and service marks, goodwill and all other intellectual property rights, in each case whether registered or unregistered which subsist or will subsist now or in the future in any part of the world, and including all rights to recover damages for the breach, infringement, or misappropriation of any such intellectual property rights, in relation the IQN App and Content. 
-### 9.2
-Users and Registered Users acknowledge that all rights, title, ownership and interest, including Intellectual Property Rights, in and to the IQN App, the technology, the Content and Services and the functionalities is owned by IQN and is protected by law and remains IQN’s absolute property. For the avoidance of any doubt, use of the IQN App is licensed (not sold) to Registered Users thus users and Registered Users have no rights, title, ownership or interest, including any Intellectual Property Rights in, or to, the IQN App in accordance with the terms of this TCS. 
-### 9.3 
-Users and Registered Users have no right to have access to the IQN App in source-code form and any copies of the IQN App which users are permitted to make pursuant to this TCS must contain the same copyright and other proprietary notices that appear on the IQN App. 
-## 10.	Processing of Personal Data
-### 10.1 
-IQN collects and processes personal data about Registered Users when Registered Users download and install the IQN App and register and use the Services and functionalities. IQN will handle the collection, processing and storage of Registered Users personal data in accordance with our Privacy Policy. Please read and understand the Privacy Policy for more information on what personal data is compulsory and optional to provide and the consequences of providing or not providing such personal data, the grounds for processing Registered Users’ personal data, how IQN uses Registered Users’ personal data and for what purposes and Registered Users’ rights and responsibilities.
-## 11.	Amendments of the TCS
-### 11.1 
-IQN may at any time, bring amendments to these TCS related to, inter alia, the implementation, operation and security of the IQN App. Following such amendments IQN shall inform Registered Users of amendments hereto with reasonable notice. IQN will do this by either sending its Registered Users an email, sending a pop-up notice when Registered Users access the IQN Service or the IQN App, or through a pop-up notice when users log into the IQN App.
-### 11.2 
-If you do not agree to the Amendments to these TCS, you may end your use of the IQN App in the way set out in clause 8 above. 
-## 12.	Consequences of breaching the TCS
-### 12.1
-Users and Registered Users in breach of these TCS agree to indemnify and hold IQN harmless against any loss, liability, costs, and damages which they may suffer as a result of: (i) infringing any person's rights, including Intellectual Property Rights, in relation to the IQN App and (ii) Registered Users failing to comply with TCS.
-### 12.2
-Additionally, IQN reserves the right to check, edit, moderate and/or delete User content submitted by Registered Users or to prevent Registered Users from making comments if they breach these TCS.
-## 13.	Exclusions
-### 13.1.
-The IQN App is made available on an 'as is' basis and without any warranty or other obligation whatsoever. IQN is not obliged to ensure that the IQN App meets Registered Users’ expectations, is always available and accessible, is provided without interruptions or error free. 
-### 13.2
-IQN shall not be liable towards any Registered Users of the IQN App or any third parties for any direct or indirect loss, damage or loss of a commercial opportunity whatsoever resulting from the use of the IQN App by Registered Users. IQN shall not be liable towards any Registered Users of the IQN App or any third parties for any loss, damage or loss of a commercial opportunity whatsoever resulting from any: (i) errors, mistakes, or inaccuracies appearing on the IQN App or in relation to the Services or Content or the AIS Related Data; (ii) damage resulting from access to and use of the IQN App and Services; or (iii) User content posted on the IQN App by users and Registered Users.
-## 14.	Governing law and disputes
-These TCS shall be governed by the laws of the Netherlands. Any disputes arising in connection to the TCS shall be settled by the competent courts located in the Netherlands.
-## 15.	Further information and contact
-For any further information, please contact us at: <office@iqnautics.com>
+1. IQN needs to perform maintenance on, upgrades or updates to, the IQN Charter Platform or any of the systems, software, technology or other infrastructure that it uses to provide the IQN Charter Platform or the Services;
+2. IQN has reasonable grounds to believe that the user is using the IQN Charter Platform recklessly, with gross negligence or with the intention to defraud or for fraudulent purposes;
+3. IQN has reasonable grounds to believe that you are engaging in any actual or suspected or threatened breach of this TCS, specifically in breach of section 9;
+4. IQN becomes aware of any actual, threatened or suspected unauthorized use of the IQN Charter Platform;
+5. IQN reasonably believes that the security of Users&#39; Devices used to provide the IQN Charter Platform may be compromised;
+6. IQN becomes aware of any information that it is provided by users it is false, inaccurate, invalid, incomplete or misleading;
+7. IQN must do so to comply with the law; or
+8. a court or other authority orders IQN to do so.
+
+9.2.2 IQN will notify Users if it suspends partially or wholly the IQN Charter Platform and Services where it is reasonably practicable to do so.
+
+1. **Prohibited acts**
+
+10.1 Except as expressly set out in these TCS or as permitted by the applicable law, Users agree to refrain from any and all activities and operations listed below:
+
+1. copying the IQN Charter Platform except where such copying is incidental to normal use of the IQN Charter Platform, or where it is necessary for the purpose of back-up or operational security;
+2. renting for free or subject to a fee, leasing, sub-licensing, translating, merging, adapting, varying or modifying the IQN Charter Platform;
+3. altering or amending in whole or in part of the IQN Charter Platform, or permitting the IQN Charter Platform or any part of it to be combined with or become incorporated in, any other programs;
+4. disassembling, decompiling, or unless permitted by applicable law, reverse-engineering or creating derivative works based overall or any part of the IQN Charter Platform, the technology forming part of the IQN Charter Platform or attempting to do any such thing;
+5. using the IQN Charter Platform in any unlawful manner, for any unlawful purpose, or in any manner inconsistent with this TCS, or acting fraudulently or maliciously (for example, by hacking into or inserting Unpermitted Code, as defined below, into the IQN Charter Platform or any technology);
+6. infringing IQN&#39;s Intellectual Property Rights, as defined below, or those of any third party;
+7. transmitting or posting in the IQN Charter Platform any material that is defamatory, offensive or otherwise objectionable in relation to your use of the IQN Charter Platform;
+8. introducing, or allowing the introduction of, any Unpermitted Code into the IQN Charter Platform or the technology utilized by IQN or you. Unpermitted Code includes viruses, &quot;trojan horses&quot;, computer code, malware, instructions, devices or other materials designed to disrupt, disable, harm or otherwise impede operation of the Device, Services, data, storage media, programs, equipment or communications, or otherwise interfere with operations thereof;
+9. provide or otherwise make available the IQN Charter Platform, in whole or in part (including any object code) in any form to any person without prior written consent from Company;
+10. using the IQN Charter Platform in a way that could damage, disable, overburden, impair or compromise our systems, Infrastructure or security or interfere with other users; and
+11. collecting or harvesting any information or data for attempt to decipher any transmissions from the servers or systems which run the IQN Charter Platform.
+
+10.2 User undertake to keep all copies of the IQN Charter Platform secure and comply with all technology control or export laws or regulations that apply to the technology used or supported by the IQN Charter Platform.
+
+10.3 For the avoidance of any doubt, IQN does not grant to its users any rights or licenses to access or use the source code of the IQN Charter Platform. IQN always remains the sole owner of the IQN Charter Platform.
+
+10.4 All acts and omissions of any person that uses the Device, shall be treated as, and also be deemed to be, the Users&#39; acts and omissions. IQN may hold Users liable and responsible for these acts and omissions.
+
+1. **Termination the TCS**
+
+11.1 Users may end their use of the IQN Charter Platform and thus the further access to the IQN Charter Platform and Services, at any time without reason by permanently deleting their account.
+
+11.2 IQN reserves the right at any time and for any reason to terminate these TCS, the operation or availability of the IQN Charter Platform or Users&#39; right to use the IQN Charter Platform.
+
+11.3 If IQN shall terminate these TCS as per section 11.2 above, it shall give its Users a prior written notice by email unless:
+
+1. the termination is required by law; or
+2. it is reasonable not to give a prior notice, having regard to the reasons why IQN is taking these actions.
+
+11.4 Following the termination of this TCS for any reason, all rights and licenses granted to the users under this TCS will immediately end.
+
+11.5 Following the termination of this TCS however certain provisions of this TCS which by their nature must continue to apply will not be affected by the termination, including but not limited to sections where IQN&#39;s liabilities or responsibilities are excluded or limited, including amounts which users can claim from IQN, provisions regarding the limited or excluded rights that users have against IQN, provisions referring to certain losses or damages that may happen and in relation to which users assume responsibility.
+
+1. **Intellectual Property Rights**
+
+12.1 For the purposes of these TCS, &quot;Intellectual Property Rights&quot; shall include all intellectual property rights of whatsoever nature anywhere in the world, including (without limitation) copyright and related rights, patents, patent rights, designs, design rights, invention rights, database rights, know-how, confidential information, trade secrets, trademarks, trade names, domain names and service marks, goodwill and all other intellectual property rights, in each case whether registered or unregistered which subsist or will subsist now or in the future in any part of the world, and including all rights to recover damages for the breach, infringement, or misappropriation of any such intellectual property rights, in relation the IQN Charter Platform and Content.
+
+12.2 The User acknowledges that all rights, title, ownership and interest, including Intellectual Property Rights, in and to the IQN Charter Platform, the technology, the Content and Services and the functionalities is owned by IQN and is protected by law and remains IQN&#39;s absolute property. For the avoidance of any doubt, use of the IQN Charter Platform is licensed (not sold) to Users thus Users have no rights, title, ownership or interest, including any Intellectual Property Rights in, or to, the IQN Charter Platform in accordance with the terms of this TCS.
+
+12.3 The Users have no right to have access to the IQN Charter Platform in source-code form and any copies of the IQN Charter Platform which users are permitted to make pursuant to this TCS must contain the same copyright and other proprietary notices that appear on the IQN Charter Platform.
+
+1. **Processing of Personal Data**
+
+13.1 IQN collects and processes personal data about Users when Users access and use the IQN Charter Platform and register and use the Services and functionalities. IQN will handle the collection, processing and storage of Users personal data in accordance with our Privacy Policy. Please read and understand the Privacy Policy for more information on what personal data is compulsory and optional to provide and the consequences of providing or not providing such personal data, the grounds for processing Users&#39; personal data, how IQN uses Users&#39; personal data and for what purposes and Users&#39; rights and responsibilities.
+
+13.2 Personal data referring to Charter Customers and Guest users can be provided via the IQN Charter Platform by Users having a Charter Master Admin, Base Admin or Associate User Account. By accepting these terms and conditions, the Users declare that they have the consent of the data subject whose personal data the Users provide and use in the IQN Charter Platform for the purposes stated in the Privacy Policy.
+
+13.3 Our Company does not assume any responsibility regarding the legality of the use by Charter Master Admin, Base Admin or Associate User of the personal data of Charter Customers, Associate or Guest Users within the IQN Charter platform.
+
+13.4 The legal or natural persons using Charter Master Admin, Base Admin or Associate User shall assume all responsibility with respect to the legality of the use of personal data that they upload on the IQN Charter Platform.
+
+13.5 The legal or natural persons using Charter Master Admin, Base Admin or Associate User shall hold the Company harmless against all claims deriving from the breach of the applicable laws including but not limited to data protection legislation and shall indemnify the Company for any damages deriving thereof.
+
+1. **Amendments of the TCS**
+
+14.1 IQN may at any time, bring amendments to these TCS related to, inter alia, the implementation, operation and security of the IQN Charter Platform. Following such amendments IQN shall inform Users of amendments hereto with reasonable notice. IQN will do this by either sending its Users an email, sending a pop-up notice when Users access the IQN Services or the IQN Charter Platform, or through a pop-up notice when users log into the IQN Charter Platform.
+
+14.2 If you do not agree to the Amendments to these TCS, you may end your use of the IQN Charter Platform.
+
+1. **Consequences of breaching the TCS**
+
+15.1 Users in breach of these TCS agree to indemnify and hold IQN harmless against any loss, liability, costs, and damages which they may suffer as a result of: (i) infringing any person&#39;s rights, including Intellectual Property Rights, in relation to the IQN Charter Platform and (ii) Users failing to comply with TCS.
+
+15.2 Additionally, IQN reserves the right to check, edit, moderate and/or delete User content submitted by Users or to prevent Users from making comments if they breach these TCS.
+
+1. **Exclusions**
+
+16.1. The IQN Charter Platform is made available on an &#39;as is&#39; basis and without any warranty or other obligation whatsoever. IQN is NOT obliged to ensure that the IQN Charter Platform meets Users&#39; expectations, OR that it is always available and accessible, OR that it is provided without interruptions or error free.
+
+16.2 IQN shall NOT be liable towards any Users of the IQN Charter Platform or any third parties for any direct or indirect loss, damage or loss of a commercial opportunity whatsoever resulting from the use of the IQN Charter Platform by Users. IQN shall not be liable towards any Users of the IQN Charter Platform or any third parties for any loss, damage or loss of a commercial opportunity whatsoever resulting from any: (i) errors, mistakes, or inaccuracies appearing on the IQN Charter Platform or in relation to the Services or Content or the AIS Related Data; (ii) damage resulting from access to and use of the IQN Charter Platform and Services by Users or any third parties who have gained access to the IQN Charter Platform, legally or illegally; or (iii) User content posted on the IQN Charter Platform by Users or any third parties who have gained access to the IQN Charter Platform, legally or illegally.
+
+16.3 IQN&#39;s obligations are limited to providing Users of the IQN Charter Platform with the features mentioned above in section 6. Therefore, IQN is not responsible for the obligations that Users of the IQN Charter Platform owe to each other or to third parties under the contractual relationship between them or deriving from the applicable law.
+
+16.4 In any event, if any category of Users wishes to use the IQN Charters Platform, they must expressly agree with these TCS, irrespective of the type of User Account they have.
+
+1. **Governing law and disputes**
+
+17.1 These TCS shall be governed by the laws of the Netherlands. Any disputes arising in connection to the TCS shall be settled by the competent courts located in the Netherlands.
+
+1. **Further information and contact**
+
+For any further information, please contact us at: [office@iqnautics.com](mailto:office@iqnautics.com)
+
+7
